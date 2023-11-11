@@ -1,0 +1,19 @@
+
+Омлет
+Ингредиентов: 3
+Яйцо: "measure": шт.: "quantity": 2:
+Молоко: "measure": мл: "quantity": 100:
+Помидор: "measure": шт: "quantity": 2:
+
+Утка по-пекински
+Ингредиентов: 4
+Утка: "measure": шт: "quantity": 1:
+Вода: "measure": л: "quantity": 2:
+Мед: "measure": ст.л: "quantity": 3:
+Соевый соус: "measure": мл: "quantity": 60:
+
+Запеченный картофель
+Ингредиентов: 3
+Картофель: "measure": кг: "quantity": 1:
+Чеснок: "measure": зубч: "quantity": 3:
+Сыр гауда: "measure": г: "quantity": 100:
